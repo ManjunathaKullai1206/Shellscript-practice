@@ -8,3 +8,4 @@ echo "The second movie is: ${MOVIES[1]}"
 echo "The third movie is: ${MOVIES[2]}"
 
 echo "all the movies: ${MOVIES[@]}"
+echo "all the movies: ${MOVIES[#]}"
